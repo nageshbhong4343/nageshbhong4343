@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Nagesh Bhong
 
-### Python Developer | AI/ML Engineer | Data Scientist
+### Python Full Stack Developer
 
 <p>
   <a href="https://github.com/nageshbhong4343">
@@ -32,7 +32,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Nagesh Bhong**, a Python Developer, AI/ML Engineer, and Data Scientist from Pune, Maharashtra, India.
+I'm **Nagesh Bhong**, a Python Full Stack Developer from Pune, Maharashtra, India.
 
 I enjoy building reliable backend systems, REST APIs, machine learning applications, data analytics solutions, and full-stack web applications.
 
