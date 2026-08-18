@@ -111,25 +111,6 @@ I enjoy building reliable backend systems, REST APIs, machine learning applicati
 
 ---
 
-## 💼 Professional Experience
-
-### Data Science Engineer / AI-ML Engineer
-
-**Web Mind IT Solution**  
-📍 Pune, Maharashtra, India  
-📅 March 2025 - June 2026
-
-- Developed applications and data solutions using **Python**
-- Performed data preprocessing, cleaning, and exploratory data analysis
-- Built and optimized **Machine Learning models**
-- Developed and integrated **REST APIs**
-- Worked with SQL databases and data pipelines
-- Created data visualizations and analytical dashboards
-- Deployed applications and machine learning solutions
-- Used Git and GitHub for version control and collaboration
-
----
-
 ## 🚀 Featured Projects
 
 ### 💳 Payment System
