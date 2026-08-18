@@ -113,19 +113,52 @@ I enjoy building reliable backend systems, REST APIs, machine learning applicati
 
 ## 🚀 Featured Projects
 
-### 💳 Payment System
-
-A Python-based payment system designed with REST API integration and PostgreSQL database support.
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
-
-<a href="https://github.com/nageshbhong4343/Payment-System">
-  <strong>View Repository ↗</strong>
-</a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 <a href="https://github.com/nageshbhong4343/Learning-Management-System">Learning Management System</a></h3>
+      <p>A full-stack LMS built with Python, featuring course management, student authentication, quizzes, and progress tracking.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Django%2FFlask-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+      </p>
+      <a href="https://github.com/nageshbhong4343/Learning-Management-System"><strong>View Repository ↗</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 <a href="https://github.com/nageshbhong4343/FASTMARKET-Grocery-Store-Management-System">FASTMARKET Store System</a></h3>
+      <p>Comprehensive grocery store management platform handling real-time inventory, billing, cashier POS, and analytics.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      </p>
+      <a href="https://github.com/nageshbhong4343/FASTMARKET-Grocery-Store-Management-System"><strong>View Repository ↗</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✨ <a href="https://github.com/nageshbhong4343/LifeStyleX">LifeStyleX E-Commerce</a></h3>
+      <p>Modern lifestyle e-commerce application featuring responsive UI, catalog filtering, shopping cart, and smooth UX.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React%2FJS-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML/CSS" />
+        <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=rest&logoColor=white" alt="API" />
+      </p>
+      <a href="https://github.com/nageshbhong4343/LifeStyleX"><strong>View Repository ↗</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💳 <a href="https://github.com/nageshbhong4343/Payment-System">Secure Payment System</a></h3>
+      <p>Secure payment processing gateway architecture with transaction verification, logging, and RESTful API endpoints.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=rest&logoColor=white" alt="API" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      </p>
+      <a href="https://github.com/nageshbhong4343/Payment-System"><strong>View Repository ↗</strong></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
